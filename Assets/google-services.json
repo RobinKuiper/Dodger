@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1035405650600",
+    "firebase_url": "https://dodger-635c7.firebaseio.com",
+    "project_id": "dodger-635c7",
+    "storage_bucket": "dodger-635c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035405650600:android:9bdf9af524ca69dd",
+        "android_client_info": {
+          "package_name": "eu.robinkuiper.dodger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035405650600-b21qfj1ee43j2hem9di1fj9surk8pe6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-UHONpe0aNx1W9trqNNuH8GaE_6V6z1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
